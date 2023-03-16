@@ -17,7 +17,7 @@
 .sabkabaap{
   width: 800px;
   height: 500px;
-  background-color: gray;
+  background-color: palevioletred;
   display: flex;
   flex-direction: column;
   justify-content: center;
